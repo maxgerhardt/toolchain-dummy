@@ -1,7 +1,7 @@
 {
-   "description": "arm-none-eabi-gcc",
-   "name": "toolchain-rp2040-earlephilhower",
+   "description": "GNU toolchain for RISC-V, including GCC",
+   "name": "toolchain-riscv-rp2350",
    "system": "all",
-   "url": "https://github.com/earlephilhower/pico-quick-toolchain",
-   "version": "5.120300.230911"
+   "url": "https://github.com/raspberrypi/pico-sdk-tools",
+   "version": "1.150100.250822"
 }
